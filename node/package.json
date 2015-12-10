@@ -1,0 +1,16 @@
+{
+  "name": "best-practices",
+  "description": "A package using versioning best-practices",
+  "author": "Charlie Robbins <charlie@nodejitsu.com>",
+  "dependencies": {
+    "colors": "latest",
+    "express": "latest",
+    "gulp": "^3.9.0",
+    "optimist": "latest",
+    "redis": "latest"
+  },
+  "devDependencies": {
+    "vows": "0.5.x"
+  },
+  "engine": "node >= 0.4.1"
+}
